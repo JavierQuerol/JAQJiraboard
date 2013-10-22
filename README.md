@@ -1,6 +1,6 @@
 # JQJiraboard
 
-JIRA stats for Panic Statusboard (iPad app)
+JIRA stats for [Panic Status Board](http://www.panic.com/statusboard/) (iPad app)
 
 ## Usage
 
@@ -13,6 +13,12 @@ define('REFRESH_RATE','600'); 								// refresh the chart every X seconds
 define('MAX_RESULTS','200'); 								// query maximum results
 $people = array("user1","user2","user3","user4");			// usernames to monitorize
 ```
+
+## Items
+- user_list.php: User's task list
+- user_status.php: Chart showing the number of issues, open, resolved, fixed & closed.
+- team_five_day_stats.php: comparision between open and closed task during the last five days.
+- team_status.php: given an array of users, this chart shows the number of task for each one.
 
 ## License
 
