@@ -2,6 +2,12 @@
 
 JIRA stats for [Panic Status Board](http://www.panic.com/statusboard/) (iPad app)
 
+# Screenshot
+
+<p align="center" >
+  <img src="http://s221041438.mialojamiento.es/test/JQJiraboard/jiraboard.PNG" alt="JQJiraboard" title="JQJiraboard">
+</p>
+
 ## Usage
 
 ```
