@@ -1,4 +1,4 @@
-# JQJiraboard
+# JAQJiraboard
 
 JIRA stats for [Panic Status Board](http://www.panic.com/statusboard/) (iPad app)
 
